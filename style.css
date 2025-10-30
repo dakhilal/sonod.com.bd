@@ -1,0 +1,19 @@
+@font-face {
+  font-family: myFont;
+  src: url(solaimanlipi);
+}
+
+body {
+  margin: 20px;
+  font-family: 'NikoshBAN';
+}
+table{
+
+    text-align: center;
+    font-size: 18px;
+  border: 2px solid;
+  padding: 5px;
+  border-style: ridge;
+  width: 100%;
+  border-collapse: collapse;
+}
